@@ -1,0 +1,10 @@
+div{
+    display:grid;
+justify-content:center;
+
+}
+
+input{
+        background-color: rgb(185, 185, 185);
+        border-radius: 5px;
+       }
